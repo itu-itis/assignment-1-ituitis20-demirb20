@@ -1,15 +1,15 @@
-body
+#body
 {vlink:white;
 background:#eeeeee;
 font-family: arial;
 font-size:20px;
-color:white;
+color:BLUE;
 }
 
 #anadiv
 {background:#cccccc; width:920px; height:780px; margin-left:auto; margin-right:auto; margin-top:20px; border: 1px solid blue;}
 #banner
-{width:900px; height:140px; margin-left:10px; margin-right:10px; margin-top:10px; border: 1px solid yellow; float:left;background-image: url(resim/okullogo.png);}
+{width:900px; height:140px; margin-left:10px; margin-right:10px; margin-top:10px; border: 1px solid yellow; float:left;}
 #menu
 {
 	width: 900px;
@@ -26,5 +26,4 @@ color:white;
 #icerik
 {width:900px; height:480px; margin-left:10px; margin-right:10px; margin-top:10px; border: 1px solid purple; float:left;}
 #footer1
-{
-	width: 900px;height: 40px; margin-left: 10px;margin-right: 10px; margin-top: 10px; border: 1px solid black; float: left;}
+{width: 900px;height: 40px; margin-left: 10px;margin-right: 10px; margin-top: 10px; border: 1px solid black; float: left;}
