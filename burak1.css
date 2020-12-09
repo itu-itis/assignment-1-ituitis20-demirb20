@@ -1,11 +1,11 @@
 #body
-{vlink:white;
+{
 background:#eeeeee;
 font-family: arial;
 font-size:20px;
 color:BLUE;
 }
-
+.frameici{ background-color:#FFF;}
 #anadiv
 {background:#cccccc; width:920px; height:780px; margin-left:auto; margin-right:auto; margin-top:20px; border: 1px solid blue;}
 #banner
@@ -23,7 +23,12 @@ color:BLUE;
 	padding-top: 10px;
 	float: left;
 }
-#icerik
+.h1{style="color:black; text-align:center;"}
+
+.a{font-family:"Comic Sans MS", cursive; font-size:16px; font-weight:300; color:#FFF;}
 {width:900px; height:480px; margin-left:10px; margin-right:10px; margin-top:10px; border: 1px solid purple; float:left;}
 #footer1
 {width: 900px;height: 40px; margin-left: 10px;margin-right: 10px; margin-top: 10px; border: 1px solid black; float: left;}
+.table1, th,td {border:3px solid black; height:450;  width:450; text-align:center;
+}
+.ul a{type="disk";}
